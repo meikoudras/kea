@@ -42,7 +42,8 @@
     "react-redux": "*",
     "redux": "3.x",
     "redux-saga": ">= 0.14",
-    "reselect": "2.x"
+    "reselect": "2.x",
+    "prop-types": "*"
   },
   "devDependencies": {
     "babel-cli": "6.18.0",
@@ -68,6 +69,7 @@
     "react-redux": "4.4.6",
     "redux": "3.6.0",
     "redux-saga": "0.x",
-    "reselect": "2.x"
+    "reselect": "2.x",
+    "prop-types": "*"
   }
 }
